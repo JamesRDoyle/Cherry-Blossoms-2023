@@ -1,1 +1,1 @@
-This repository contains my submission for the 2023 Cherry Blossom Bloom Prediction Competition. Contained within is my narrative report, my findings, my code, and the data I used (which was all provided by the project organizers).
+This repository contains my submission for the 2023 Cherry Blossom Prediction Competition. Contained within is my narrative report, my findings, my code, and the data I used (which was all provided by the project organizers).
